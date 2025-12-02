@@ -210,6 +210,7 @@ main {
 }
 input{
   background-color: #16104c;
+  color: beige;
   margin-top: 10px;
   margin-bottom: 10px;
   border-radius: 10px;
@@ -233,4 +234,5 @@ footer {
   padding-top: 18px;
   border-top: 1px dashed rgba(255, 255, 255, 0.03);
   text-align: center;
+
 }

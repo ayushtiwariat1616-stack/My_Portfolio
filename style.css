@@ -5,7 +5,7 @@ body {
   background-color: #100643;
 }
 header {
-  position: sticky;
+  position: fixed;
   display: flex;
   align-items: center;
   align-content: 10px;
@@ -235,4 +235,5 @@ footer {
   padding-top: 18px;
   border-top: 1px dashed rgba(255, 255, 255, 0.03);
   text-align: center;
+
 }

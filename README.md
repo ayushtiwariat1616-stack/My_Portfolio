@@ -77,7 +77,7 @@ git clone https://github.com/ayushtiwariat1616-stack/My_Portfolio.git
 ## 📬 **Contact**
 
 Ayush Tiwari
-📧 Email: [ayushtiwari1616@gmail.com](mailto:ayushtiwari1616@gmail.com)
+📧 Email: [ayushtiwari1616@gmail.com](mailto:ayushtiwariat1616@gmail.com)
 
 🔗 GitHub: ayushtiwariat1616-stack
 

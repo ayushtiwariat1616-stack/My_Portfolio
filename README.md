@@ -61,7 +61,7 @@ It highlights my skills, projects, and contact details through a clean UI, smoot
 ## 📸 **Preview**
 
 ```
-https://ayushtiwariat1616-stack.github.io/portfolio/
+https://ayushportfolio-blue.vercel.app/
 ```
 
 ---
